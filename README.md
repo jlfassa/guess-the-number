@@ -28,14 +28,14 @@ This is a classic number guessing game where the computer randomly selects a num
 
 ## Installation
 
-No installation required! Just download the `adivina_numero.py` file and run it with Python.
+No installation required! Just download the `guess_the_number.py` file and run it with Python.
 
 ## Usage
 
 To start the game, simply run:
 
 ```bash
-python adivina_numero.py
+guess_the_number.py
 ```
 
 ## License
